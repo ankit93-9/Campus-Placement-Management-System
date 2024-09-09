@@ -60,7 +60,7 @@
 
             <div class="section-header">
                 <h2><strong>Contact Us</strong></h2>
-                <p>Jyothy Institute Of Technology,Bangalore.</p>
+                <p>Indore Institute Of Science And Technology</p>
             </div>
 
         </div>
@@ -83,7 +83,7 @@
                             <i class="bi bi-geo-alt flex-shrink-0"></i>
                             <div>
                                 <h4>Location:</h4>
-                                <p>Jyothy Institute Of Technology, Pipeline Rd, near Ravi Shankar Guruji Ashram, Thathaguni, Karnataka 560082</p>
+                                <p>Indore Institute Of Science And Technology Rau - Pithampur Rd, Opposite Indian Institute of Management, Rau, Indore, Madhya Pradesh 453331</p>
                             </div>
                         </div><!-- End Info Item -->
 
@@ -91,7 +91,7 @@
                             <i class="bi bi-envelope flex-shrink-0"></i>
                             <div>
                                 <h4>Email:</h4>
-                                <p><a href="mailto:rekha.kv.placements@jyothyit.ac.in">rekha.kv.placements@jyothyit.ac.in</a></p>
+                                <p><a href="admissions@indoreinstitute.com">rekha.kv.placements@jyothyit.ac.in</a></p>
                             </div>
                         </div><!-- End Info Item -->
 
@@ -99,7 +99,7 @@
                             <i class="bi bi-phone flex-shrink-0"></i>
                             <div>
                                 <h4>Call:</h4>
-                                <p>97428 59408</p>
+                                <p> 1800 103 3069</p>
                             </div>
                         </div><!-- End Info Item -->
 
